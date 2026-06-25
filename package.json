@@ -1,0 +1,12 @@
+{
+  "name": "biztalker-one",
+  "version": "1.2.0",
+  "private": true,
+  "description": "BizTalker One branded business English web and mobile learning app",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  },
+  "dependencies": {
+    "jsdom": "^24.1.0"
+  }
+}

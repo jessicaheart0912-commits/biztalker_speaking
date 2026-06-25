@@ -1,0 +1,10 @@
+{
+  "name": "BizTalker One",
+  "short_name": "BizTalker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "BizTalker One - AI-powered business English learning app for meetings, negotiation, networking, and roleplay practice.",
+  "icons": []
+}

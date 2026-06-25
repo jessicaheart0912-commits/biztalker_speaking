@@ -1,0 +1,9 @@
+{
+  "appId": "com.biztalker.one",
+  "appName": "BizTalker One",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
